@@ -27,11 +27,10 @@ References:
     Java Brains.(2011, June 16). Maven Tutorial 09 - Creating a Maven Project in Eclipse [Video file].
     Retrieved from https://www.youtube.com/watch?v=uv9tXFrTLtI
     
-    
     Team MAST.(2015, January 3). Regex Pattern in Java | Team MAST [Video file].
     Retrieved from  https://www.youtube.com/watch?v=62XY8JJxpYw
     
-    edureka!.(2018, November 4).Java ArrayList Tutorial | Java ArrayList Examples | Java Tutorial For Beginners |     Edureka [Video file].  Retrieved from https://www.youtube.com/watch?v=gmm7062i-tI
+    edureka!.(2018, November 4).Java ArrayList Tutorial | Java ArrayList Examples | Java Tutorial For Beginners | Edureka [Video file].     Retrieved from https://www.youtube.com/watch?v=gmm7062i-tI
     
     Shane Lee.(2018, May 20).How to Web Scrape Stock Data with Java using the JSoup Library [Video file].   
     Retrieved from https://www.youtube.com/watch?v=tI1qGwhn_bs&t=806s 
