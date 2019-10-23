@@ -72,7 +72,9 @@ public class saveToExcel {
         FileOutputStream fileOut = new FileOutputStream("C:\\RealTime\\Assignment1.xlsx");
         workbook.write(fileOut);
         fileOut.close();
-        System.out.println("\n\n\n"+"Excel file has successfully created..........");
+        System.out.println("\nconvert data to excel . . . ");
+        System.out.println("\nconverted");
+
 
     }
 
